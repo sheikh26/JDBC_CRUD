@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="D:/Jars/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Jars/jsp-api-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Jars/jstl-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Jars/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Jars/servlet-api-2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
